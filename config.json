@@ -3,7 +3,7 @@
     "CLIENT_SECRET": "kwFuVzQ7inNqHeTm13nUKN3PEjmfsJta",
     "CLIENT_BOT_TOKEN": "ODY1MTMwOTI3ODUwNzgyNzQx.YO_h9g.Oudw_R_ZGZZnNweg8QM29p3bHKA",
     "CLIENT_REDIRECT": "/auth/redirect/",
-    "CLIENT_URL": "https://exciting-quintessential-feelint/g.glitch.me/auth/redirect/",
+    "CLIENT_URL": "https://s2e2eaed3.herokuapp.com/auth/redirect/",
     "CLIENT_PORT": 3000,
     "MONGO_URL": "mongodb+srv://r4:niki1290Q@cluster0.aylxs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
